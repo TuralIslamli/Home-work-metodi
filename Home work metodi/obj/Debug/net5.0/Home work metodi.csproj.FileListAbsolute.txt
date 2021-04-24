@@ -1,0 +1,16 @@
+C:\Users\User\OneDrive\Рабочий стол\Home work metodi\Home work metodi\bin\Debug\net5.0\Home work metodi.exe
+C:\Users\User\OneDrive\Рабочий стол\Home work metodi\Home work metodi\bin\Debug\net5.0\Home work metodi.deps.json
+C:\Users\User\OneDrive\Рабочий стол\Home work metodi\Home work metodi\bin\Debug\net5.0\Home work metodi.runtimeconfig.json
+C:\Users\User\OneDrive\Рабочий стол\Home work metodi\Home work metodi\bin\Debug\net5.0\Home work metodi.runtimeconfig.dev.json
+C:\Users\User\OneDrive\Рабочий стол\Home work metodi\Home work metodi\bin\Debug\net5.0\Home work metodi.dll
+C:\Users\User\OneDrive\Рабочий стол\Home work metodi\Home work metodi\bin\Debug\net5.0\ref\Home work metodi.dll
+C:\Users\User\OneDrive\Рабочий стол\Home work metodi\Home work metodi\bin\Debug\net5.0\Home work metodi.pdb
+C:\Users\User\OneDrive\Рабочий стол\Home work metodi\Home work metodi\obj\Debug\net5.0\Home work metodi.csprojAssemblyReference.cache
+C:\Users\User\OneDrive\Рабочий стол\Home work metodi\Home work metodi\obj\Debug\net5.0\Home work metodi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Рабочий стол\Home work metodi\Home work metodi\obj\Debug\net5.0\Home work metodi.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Рабочий стол\Home work metodi\Home work metodi\obj\Debug\net5.0\Home work metodi.AssemblyInfo.cs
+C:\Users\User\OneDrive\Рабочий стол\Home work metodi\Home work metodi\obj\Debug\net5.0\Home work metodi.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Рабочий стол\Home work metodi\Home work metodi\obj\Debug\net5.0\Home work metodi.dll
+C:\Users\User\OneDrive\Рабочий стол\Home work metodi\Home work metodi\obj\Debug\net5.0\ref\Home work metodi.dll
+C:\Users\User\OneDrive\Рабочий стол\Home work metodi\Home work metodi\obj\Debug\net5.0\Home work metodi.pdb
+C:\Users\User\OneDrive\Рабочий стол\Home work metodi\Home work metodi\obj\Debug\net5.0\Home work metodi.genruntimeconfig.cache
