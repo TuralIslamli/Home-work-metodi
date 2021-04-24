@@ -134,7 +134,7 @@ namespace Home_work_metodi
                 }
             }
             Console.ReadKey();
-            Console.ReadKey();
+            
 
           
         }
